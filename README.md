@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://dev.to/https://dev.to/csengineer1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/csengineer1990" height="30" width="40" /></a>
 <a href="https://twitter.com/csengineer1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="csengineer1990" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/roshangoswami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roshangoswami/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/roshangoswami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roshangoswami/" height="30" width="40" /></a>
 <a href="https://medium.com/@csengineer1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@csengineer1990" height="30" width="40" /></a>
 <a href="/csengineer1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="csengineer1990" height="30" width="40" /></a>
 </p>
