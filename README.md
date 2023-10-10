@@ -30,3 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csengineer1990&" alt="csengineer1990" /></p>
 
+[![An image of @csengineer1990's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/csengineer1990)](https://holopin.io/@csengineer1990)
+
+
