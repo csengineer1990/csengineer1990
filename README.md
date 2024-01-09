@@ -32,5 +32,8 @@
 
 <a href= "https://meshery.layer5.io/user/5a941ec1-ed4a-4d83-9fe4-c28e2ea97d65?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.svg" alt = "Hacktoberfest Contributor" /></a >
 
+<a href= "https://meshery.layer5.io/user/5a941ec1-ed4a-4d83-9fe4-c28e2ea97d65?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt = "Continuous Contributor" /></a >
+
+
 [![An image of @csengineer1990's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/csengineer1990)](https://holopin.io/@csengineer1990)
 
